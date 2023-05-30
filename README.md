@@ -1,2 +1,2 @@
 # LFI-php
-$php -S <IP>:<port>
+$php -S _IP:_port
